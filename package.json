@@ -15,7 +15,7 @@
   "dependencies": {
     "@mmintel/gatsby-theme-indiegram": "^0.0.1",
     "dotenv": "^8.2.0",
-    "gatsby": "^2.18.22",
+    "gatsby": "^4.25.7",
     "react": "^16.11.0",
     "react-dom": "^16.11.0"
   }
